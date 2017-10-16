@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/marcpre/learning_npm_nodemailer#readme",
   "dependencies": {
+    "ical-generator": "^0.2.10",
     "nodemailer": "^4.2.0"
   }
 }
